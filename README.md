@@ -90,11 +90,3 @@ python throttling_limiter.py
 ```
 
 ---
-
-## ✅ Submission Instructions
-
-1. Push your work to a public repo named `goit-algo2-hw-08`
-2. Zip all files and name it: `ДЗ8_ПІБ.zip`
-3. Submit:
-   - a link to the GitHub repo
-   - the `.zip` archive in LMS
